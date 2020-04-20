@@ -2,33 +2,57 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9be34ed4-9363-4e89-bee7-2bede65332be" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_aventstack_extentreports_3_0_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_48.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_20_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_relevantcodes_extentreports_2_41_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vimalselvam_testng_extentsreport_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jsoup_jsoup_1_8_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_bson_3_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongodb_driver_3_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongodb_driver_core_3_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_6_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xerial_sqlite_jdbc_3_8_11_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter6/Chapter6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter6/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter6/src/main/java/com/tester/extend/demo/ExtentTestngReporterListenOld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter6/src/main/java/com/tester/extend/demo/TestMethodsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter6/src/main/resources/testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter6/test-output/emailable-report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter6/test-output/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter6/test-output/report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/AutoTestDemo1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/AutoTestDemo1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_72.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_72.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_19_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_19_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_inject_guice_no_aop_4_1_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_inject_guice_no_aop_4_1_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_7_1_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_7_1_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_21.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_21.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter5/src/main/java/com/course/testng/suite/TimeOutTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter5/src/main/java/com/course/testng/suite/TimeOutTest.java" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/Chapter/target/" />
-    <ignored path="$PROJECT_DIR$/Chapter5/target/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Chapter5/src/main/java/com/course/testng/suite/TimeOutTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="166">
-              <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -40,22 +64,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/Chapter/pom.xml" />
-        <option value="$PROJECT_DIR$/Chapter5/src/main/java/com/test/code/BasicAnnotation.java" />
-        <option value="$PROJECT_DIR$/Chapter5/pom.xml" />
-        <option value="$PROJECT_DIR$/Chapter5/src/main/java/com/course/testng/suite/PayClass.java" />
-        <option value="$PROJECT_DIR$/Chapter5/src/main/java/com/course/testng/suite/LoginTest.java" />
-        <option value="$PROJECT_DIR$/Chapter5/src/main/java/com/course/testng/BasicAnnotation.java" />
-        <option value="$PROJECT_DIR$/Chapter5/src/main/java/com/course/testng/suite/SuiteConfig.java" />
-        <option value="$PROJECT_DIR$/Chapter5/src/main/resources/suite.xml" />
-        <option value="$PROJECT_DIR$/Chapter5/src/main/java/com/course/testng/suite/IgnoreTest.java" />
-        <option value="$PROJECT_DIR$/Chapter5/src/main/java/com/course/testng/suite/TimeOutTest.java" />
-      </list>
-    </option>
-  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -65,45 +73,21 @@
     </option>
     <option name="importingSettings">
       <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
         <option name="jdkForImporter" value="1.8" />
         <option name="vmOptionsForImporter" value="-Xmx768m" />
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="199" />
-    <option name="y" value="25" />
-    <option name="width" value="1144" />
-    <option name="height" value="733" />
+  <component name="ProjectId" id="1amoSUVIIjfwh4X7Mw3SIXtDRDK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="AutoTestDemo1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AutoTestDemo1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AutoTestDemo1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AutoTestDemo1" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter5" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="MANAGE_IGNORE_FILES_PROPERTY" value="true" />
@@ -118,21 +102,9 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="TestNG.TimeOutTest">
+  <component name="RunManager" selected="TestNG.E:/GitLearnLEBO/TestDemo/AutoTestDemo1/Chapter6/src/main/resources/testng.xml">
     <configuration name="BasicAnnotation" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Chapter5" />
       <extension name="coverage">
@@ -144,24 +116,6 @@
       <option name="PACKAGE_NAME" value="com.course.testng" />
       <option name="MAIN_CLASS_NAME" value="com.course.testng.BasicAnnotation" />
       <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BasicAnnotation.testCase1" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Chapter5" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.course.testng.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.course.testng" />
-      <option name="MAIN_CLASS_NAME" value="com.course.testng.BasicAnnotation" />
-      <option name="METHOD_NAME" value="testCase1" />
-      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -196,6 +150,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="E:/GitLearnLEBO/TestDemo/AutoTestDemo1/Chapter6/src/main/resources/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Chapter6" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/Chapter6/src/main/resources/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TimeOutTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Chapter5" />
       <extension name="coverage">
@@ -215,11 +179,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.E:/GitLearnLEBO/TestDemo/AutoTestDemo1/Chapter6/src/main/resources/testng.xml" />
         <item itemvalue="TestNG.TimeOutTest" />
         <item itemvalue="TestNG.D:/app/GitHub/AutoTest/Demo1/AutoTestDemo1/Chapter5/src/main/resources/suite.xml" />
         <item itemvalue="TestNG.BasicAnnotation" />
         <item itemvalue="TestNG.BasicAnnotation.testCase2" />
-        <item itemvalue="TestNG.BasicAnnotation.testCase1" />
       </list>
     </recent_temporary>
   </component>
@@ -243,6 +207,7 @@
       <workItem from="1586871368228" duration="110000" />
       <workItem from="1586938450512" duration="1806000" />
       <workItem from="1586941965747" duration="1487000" />
+      <workItem from="1587350153500" duration="6816000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交">
       <created>1586942737981</created>
@@ -261,180 +226,60 @@
     <option name="localTasksCounter" value="3" />
     <servers />
   </component>
-  <component name="TestHistory">
-    <history-entry file="D__app_GitHub_AutoTest_Demo1_AutoTestDemo1_Chapter5_src_main_resources_suite_xml - 2020.04.14 at 20h 06m 12s.xml">
-      <configuration name="D:/app/GitHub/AutoTest/Demo1/AutoTestDemo1/Chapter5/src/main/resources/suite.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="D__app_GitHub_AutoTest_Demo1_AutoTestDemo1_Chapter5_src_main_resources_suite_xml - 2020.04.14 at 20h 07m 10s.xml">
-      <configuration name="D:/app/GitHub/AutoTest/Demo1/AutoTestDemo1/Chapter5/src/main/resources/suite.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="D__app_GitHub_AutoTest_Demo1_AutoTestDemo1_Chapter5_src_main_resources_suite_xml - 2020.04.14 at 20h 07m 49s.xml">
-      <configuration name="D:/app/GitHub/AutoTest/Demo1/AutoTestDemo1/Chapter5/src/main/resources/suite.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="D__app_GitHub_AutoTest_Demo1_AutoTestDemo1_Chapter5_src_main_resources_suite_xml - 2020.04.14 at 20h 08m 21s.xml">
-      <configuration name="D:/app/GitHub/AutoTest/Demo1/AutoTestDemo1/Chapter5/src/main/resources/suite.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="D__app_GitHub_AutoTest_Demo1_AutoTestDemo1_Chapter5_src_main_resources_suite_xml - 2020.04.14 at 20h 09m 05s.xml">
-      <configuration name="D:/app/GitHub/AutoTest/Demo1/AutoTestDemo1/Chapter5/src/main/resources/suite.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="D__app_GitHub_AutoTest_Demo1_AutoTestDemo1_Chapter5_src_main_resources_suite_xml - 2020.04.14 at 20h 09m 32s.xml">
-      <configuration name="D:/app/GitHub/AutoTest/Demo1/AutoTestDemo1/Chapter5/src/main/resources/suite.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="D__app_GitHub_AutoTest_Demo1_AutoTestDemo1_Chapter5_src_main_resources_suite_xml - 2020.04.14 at 20h 10m 15s.xml">
-      <configuration name="D:/app/GitHub/AutoTest/Demo1/AutoTestDemo1/Chapter5/src/main/resources/suite.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="D__app_GitHub_AutoTest_Demo1_AutoTestDemo1_Chapter5_src_main_resources_suite_xml - 2020.04.14 at 20h 24m 19s.xml">
-      <configuration name="D:/app/GitHub/AutoTest/Demo1/AutoTestDemo1/Chapter5/src/main/resources/suite.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="D__app_GitHub_AutoTest_Demo1_AutoTestDemo1_Chapter5_src_main_resources_suite_xml - 2020.04.14 at 20h 25m 41s.xml">
-      <configuration name="D:/app/GitHub/AutoTest/Demo1/AutoTestDemo1/Chapter5/src/main/resources/suite.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="TimeOutTest - 2020.04.15 at 17h 20m 18s.xml">
-      <configuration name="TimeOutTest" configurationId="TestNG" />
-    </history-entry>
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12656000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="199" y="25" width="1144" height="733" extended-state="0" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18450184" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4995618" visible="true" weight="0.4924875" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5004382" side_tool="true" weight="0.32888147" />
-      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.4995618" weight="0.32888147" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Theme Preview" order="4" />
-      <window_info anchor="right" id="Maven" order="5" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Database" order="8" />
-    </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1630149" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4995618" visible="true" weight="0.4924875" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5004382" side_tool="true" weight="0.32888147" />
-      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.4995618" weight="0.32888147" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Theme Preview" order="4" />
-      <window_info anchor="right" id="Maven" order="5" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Database" order="8" />
-    </layout-to-restore>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="第一次提交" />
     <MESSAGE value="idea提交" />
     <option name="LAST_COMMIT_MESSAGE" value="idea提交" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.txt" />
-    <entry file="file://$PROJECT_DIR$/Chapter5/src/main/java/com/test/code/BasicAnnotation.java" />
-    <entry file="file://$PROJECT_DIR$/Chapter5/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter5/src/main/java/com/course/testng/BasicAnnotation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="779">
-          <caret line="49" selection-start-line="49" selection-end-line="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter5/src/main/java/com/course/testng/suite/SuiteConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="26" column="29" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#623#624#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter5/src/main/resources/suite.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter5/src/main/java/com/course/testng/suite/IgnoreTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter5/src/main/java/com/course/testng/suite/PayClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter5/src/main/java/com/course/testng/suite/LoginTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter5/src/main/java/com/course/testng/suite/TimeOutTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
+  <component name="WindowStateProjectService">
+    <state x="1091" y="194" key="#Inspections" timestamp="1587352503619">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1091" y="194" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1587352503619" />
+    <state x="1088" y="221" key="#com.intellij.ide.util.MemberChooser" timestamp="1587356607281">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1088" y="221" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1587356607281" />
+    <state x="1085" y="194" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1587352932361">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1085" y="194" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587352932361" />
+    <state width="877" height="411" key="GridCell.Tab.0.bottom" timestamp="1587356920994">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="877" height="411" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587356920994" />
+    <state width="877" height="411" key="GridCell.Tab.0.center" timestamp="1587356920994">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="877" height="411" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587356920994" />
+    <state width="877" height="411" key="GridCell.Tab.0.left" timestamp="1587356920994">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="877" height="411" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587356920994" />
+    <state width="877" height="411" key="GridCell.Tab.0.right" timestamp="1587356920994">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="877" height="411" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587356920994" />
+    <state x="980" y="171" key="Maven.ArtifactSearchDialog" timestamp="1587353745604">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="980" y="171" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587353745604" />
+    <state x="922" y="160" key="SettingsEditor" timestamp="1587356472022">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="922" y="160" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1587356472022" />
+    <state x="618" y="308" width="1251" height="554" key="new project wizard" timestamp="1587352986978">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="618" y="308" width="1251" height="554" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1587352986978" />
+    <state x="1172" y="261" key="refactoring.ChangeSignatureDialog" timestamp="1587355348845">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1172" y="261" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587355348845" />
   </component>
   <component name="masterDetails">
     <states>
